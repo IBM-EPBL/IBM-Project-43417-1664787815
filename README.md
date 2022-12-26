@@ -12,4 +12,4 @@ IoT Based Smart Crop Protection System for Agriculture
  
  The **Project Planning Phase folder** contains the *sprint delivery plan*
  
- ####Note: We have already submitted the above files in main branch, Now only we have came to know the mistake so we have uploaded these again.  Kindly don't reduce the mark for punctuality
+ ###  Note: We have already submitted the above folders in main branch, Now only we have came to know the mistake so we have uploaded these folders again.  Kindly don't reduce the mark for punctuality
